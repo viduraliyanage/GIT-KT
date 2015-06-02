@@ -14,7 +14,6 @@ namespace Project_1
     {
         public Form1()
         {
-            //Vidura
             InitializeComponent();
         }
     }
